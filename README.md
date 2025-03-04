@@ -24,6 +24,6 @@
 ###
 
 <p align="left">Hello World!!<br><br>- Software Engineer Student</p>
-<p align="left">Hello World!!<br><br>- Backend enthusiastic</p>
+<p align="left"><br>- Backend enthusiastic</p>
 
 ###
